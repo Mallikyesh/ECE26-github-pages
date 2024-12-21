@@ -23,6 +23,7 @@ This site hosts my collection of study notes, references, and resources across v
 
 ### RISC-V Architecture
 [ISA1_QA](note/download2.pdf)
+📄 <a href="note/download2.pdf" target="_blank">View Notes (PDF)</a>
 
 ### EMFT
 [ISA1_QA](note/download1.pdf)
