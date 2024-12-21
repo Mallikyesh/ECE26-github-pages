@@ -1,1 +1,9 @@
 theme: minima
+
+navigation:
+  - title: "Home"
+    url: /study-notes/
+  - title: "EMFT"
+    url: /emft/
+  - title: "RISC-V Architecture"
+    url: /risc-v/
