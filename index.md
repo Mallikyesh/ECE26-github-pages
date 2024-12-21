@@ -12,7 +12,7 @@ This site hosts my collection of study notes, references, and resources across v
 
 - [Electronics and Communication](#electronics-and-communication)
   - [RISC-V Architecture](note/risc-v.md)
-  - [EMFT](note/emft.html)
+  - [EMFT](note/emft.md)
   - [CCN](note/ccn.html)
   - [Digital Design](note/digital-design.html)
 - [Contact Me](#contact-me)
