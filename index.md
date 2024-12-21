@@ -22,7 +22,7 @@ This site hosts my collection of study notes, references, and resources across v
 [Detailed Notes](ECE26-github-pages/notes/risc-v.md)
 
 ### Digital Design
-[Detailed Notes](notes/digital-design.md)
+[Detailed Notes](notes/risc-v.md)
 
 
 ---
