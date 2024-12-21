@@ -11,7 +11,7 @@ This site hosts my collection of study notes, references, and resources across v
 ## Table of Contents
 
 - [Electronics and Communication](#electronics-and-communication)
-  - [RISC-V Architecture](note/risc-v.html)
+  - [RISC-V Architecture](note/risc-v.md)
   - [EMFT](note/emft.html)
   - [CCN](note/ccn.html)
   - [Digital Design](note/digital-design.html)
