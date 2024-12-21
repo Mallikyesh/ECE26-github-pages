@@ -19,7 +19,7 @@ This site hosts my collection of study notes, references, and resources across v
 ## Electronics and Communication
 
 ### RISC-V Architecture
-[Link to Notes](ECE26-github-pages/index.md/notes/risc-v.md)
+[Link to Notes](ECE26-github-pages/notes/risc-v.md)
 
 ### Digital Design
 [Link to Notes](notes/risc-v.md)
