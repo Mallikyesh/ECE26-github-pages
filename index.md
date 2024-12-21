@@ -12,6 +12,8 @@ This site hosts my collection of study notes, references, and resources across v
 
 - [Electronics and Communication](#electronics-and-communication)
   - [RISC-V Architecture](notes/risc-v.md)
+  - [EMFT](notes/emft.md)
+  - [CCN](notes/ccn.md)
   - [Digital Design](notes/digital-design.md)
 - [Contact Me](#contact-me)
 
@@ -20,10 +22,16 @@ This site hosts my collection of study notes, references, and resources across v
 ## Electronics and Communication
 
 ### RISC-V Architecture
-[Detailed Notes](note/download2.pdf)
+[ISA1_QA](note/download2.pdf)
+
+### EMFT
+[ISA1_QA](note/download1.pdf)
+
+### Computer Communication Network
+[ISA1_QA](note/download4.pdf)
 
 ### Digital Design
-[Detailed Notes](notes/digital-design.md)
+[Detailed Notes](note/download3.pdf)
 
 
 ---
