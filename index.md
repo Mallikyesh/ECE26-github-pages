@@ -19,7 +19,7 @@ This site hosts my collection of study notes, references, and resources across v
 ## Electronics and Communication
 
 ### RISC-V Architecture
-[Detailed Notes](my-pages/notes/risc-v.md)
+[Detailed Notes](my-pages/notes/download2.pdf)
 
 ### Digital Design
 [Detailed Notes](notes/digital-design.md)
