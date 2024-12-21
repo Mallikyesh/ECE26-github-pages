@@ -32,7 +32,7 @@ This site hosts my collection of study notes, references, and resources across v
 [ISA1_QA](note/download4.pdf)
 
 ### Digital Design
-[Detailed Notes](note/download3.pdf)
+[ISA1_QA](note/download3.pdf)
 
 
 ---
