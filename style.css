@@ -1,0 +1,42 @@
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 0 auto;
+  max-width: 800px;
+  color: #333;
+  background-color: #f4f4f9;
+}
+
+h1, h2 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2980b9;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+}
+
+#table-of-contents {
+  list-style-type: none;
+  padding: 0;
+}
+
+#table-of-contents li {
+  margin: 10px 0;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  color: #555;
+}
