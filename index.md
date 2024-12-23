@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Live Repo"
+title: "Home"
 css: style.css
 ---
 
