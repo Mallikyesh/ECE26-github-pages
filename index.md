@@ -2,7 +2,6 @@
 layout: default
 title: "Study Notes and References"
 css: style.css
-**<link rel="stylesheet" href="style.css">**
 ---
 
 # Welcome to My Study Notes 📚
