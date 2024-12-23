@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "RISC-V Architecture"
+title: "RISC-V"
 ---
 
 <div style="text-align: center; margin-top: 20px;">
@@ -17,11 +17,14 @@ title: "RISC-V Architecture"
 ### References
 - [RISC-V Foundation](https://riscv.org/)
 - [Documentation](https://riscv.org/technical/specifications/)
+---
 
 ### Project Link
-- [RISC-V Simulation Project](https://github.com/your-username/risc-v-simulation)
+- [RISC-V Mini Project](https://github.com/Mallikyesh/RISCV/blob/main/RISCvProject.pdf){:target="_blank" rel="noopener noreferrer"}
+---
 
 ### Codes
-- [Assembly Code Examples](code/risc-v-examples/)
+- [RISC-V Lab Codes](https://github.com/Mallikyesh/RISCV){:target="_blank" rel="noopener noreferrer"}
+---
   
 </div>
