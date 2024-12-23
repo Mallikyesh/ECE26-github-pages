@@ -10,7 +10,7 @@ title: "RISC-V"
 
 ---
 
-<div style="margin: 20px auto; text-align: center;">
+
 
 ### Notes
 
@@ -26,5 +26,3 @@ title: "RISC-V"
 ### Codes
 - [RISC-V Lab Codes](https://github.com/Mallikyesh/RISCV){:target="_blank" rel="noopener noreferrer"}
 ---
-  
-</div>
