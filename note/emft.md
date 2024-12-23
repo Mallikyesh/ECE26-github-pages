@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "emft"
+title: "EMFT"
 ---
 
 # EMFT
