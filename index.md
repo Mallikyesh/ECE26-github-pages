@@ -60,13 +60,4 @@ Master Digital System Design techniques:
 Have suggestions, questions, or feedback? I'd love to hear from you! Reach out through any of the following channels:
 
 - 📧 Email: [mallikarjun.yeshlur@gmail.com](mailto:mallikarjun.yeshlur@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](#) *(Add your profile link)*
 
----
-
-### 💡 Suggestions to Enhance This Page
-
-1. **Add Images or Icons**: Incorporate relevant icons or images for each section to make it visually appealing.
-2. **Embed Downloads**: Allow users to preview PDFs directly on the page.
-3. **Interactive Navigation**: Use JavaScript or CSS for a more interactive experience, like expanding/collapsing sections.
-4. **Styling Enhancements**: Update `style.css` for a more modern design, such as custom fonts, hover effects, or dark mode.
