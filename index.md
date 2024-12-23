@@ -17,7 +17,6 @@ This site hosts my curated collection of study notes, references, and resources 
   - [Electromagnetic Field Theory (EMFT)](#electromagnetic-field-theory-emft)
   - [Computer Communication Networks (CCN)](#computer-communication-networks-ccn)
   - [Digital System Design (DSD)](#digital-system-design-dsd)
-- [Contact Me](#contact-me)
 
 ---
 
